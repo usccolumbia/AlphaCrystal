@@ -1,0 +1,11 @@
+formula:Ag2F4
+spacegroup:13
+lattice-abc:4.062,4.667,6.129
+lattice_angles:90.0,96.9466653741222,90.0
+contactmap:(6,6)
+0 0 1 1 1 1
+0 0 1 1 1 1
+1 1 0 0 0 0
+1 1 0 0 0 0
+1 1 0 0 0 0
+1 1 0 0 0 0
