@@ -1,0 +1,50 @@
+#############################################################
+#             ______       _    _          _   	            #
+#            (_____ \     \ \  / /        | |               #
+#             _____) )   _ \ \/ / |_  ____| |  	            #
+#            |  ____/ | | | )  (|  _)/ _  | | 	            #
+#            | |    | |_| |/ /\ \ |_( (_| | |___            #
+#            |_|     \__  /_/  \_\___)__|_|_____)           #
+#                   (____/                                  #
+#---------------------(version    0.2.2)--------------------#
+#       A Python package for random crystal generation      #
+#       url: https://github.com/qzhu2017/pyxtal             #
+#       @Zhu's group at University of Nevada Las Vegas      #
+#############################################################
+data_from_pyxtal
+
+_symmetry_space_group_name_H-M 'P21'
+_symmetry_Int_Tables_number                    4
+_symmetry_cell_setting                monoclinic
+_cell_length_a            5.112384
+_cell_length_b            5.302349
+_cell_length_c            7.303093
+_cell_angle_alpha        90.000000
+_cell_angle_beta         80.859165
+_cell_angle_gamma        90.000000
+
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+2 '-x, y+1/2, -z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+Ni     Ni       2     0.583110    0.178853    0.429585 1
+I      I        2     0.852930    0.893792    0.548177 1
+I      I        2     0.670639    0.039708    0.822696 1
+O      O        2     0.891951    0.349626    0.053742 1
+O      O        2     0.504855    0.487244    0.244812 1
+O      O        2     0.550479    0.870502    0.648716 1
+O      O        2     0.750221    0.013114    0.083752 1
+O      O        2     0.020869    0.489137    0.680014 1
+O      O        2     0.146697    0.633733    0.998372 1
+#END
+

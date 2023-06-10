@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Bi2PdO4
+_symmetry_space_group_name_H-M   P4/ncc
+_cell_length_a   8.61246564
+_cell_length_b   8.61246564
+_cell_length_c   6.16996686
+_cell_angle_alpha   90.1895762198910844200
+_cell_angle_beta   90.1895762198910844200
+_cell_angle_gamma   90.1895762198910844200
+_symmetry_Int_Tables_number   130
+_chemical_formula_structural   Bi2PdO4
+_chemical_formula_sum   'Bi8 Pd4 O16'
+_cell_volume   457.65460420
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/2, x+1/2, z'
+  3  '-x, -y, z'
+  4  'y+1/2, -x+1/2, z'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-y, -x, -z+1/2'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'y, x, -z+1/2'
+  9  '-x+1/2, -y+1/2, -z'
+  10  'y, -x, -z'
+  11  'x+1/2, y+1/2, -z'
+  12  '-y, x, -z'
+  13  '-x, y, z+1/2'
+  14  'y+1/2, x+1/2, z+1/2'
+  15  'x, -y, z+1/2'
+  16  '-y+1/2, -x+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  8  0.8109879977099894  0.8109879977099894  0.9835343351086577  1
+  Pd  Pd1  4  0.18957621989108442  0.2776224778665589  0.1532144637831726  1
+  O  O2  16  0.9127208538485082  0.7864015571118329  0.01929915066356365  1

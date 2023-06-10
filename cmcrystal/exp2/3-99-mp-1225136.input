@@ -1,0 +1,9 @@
+formula:Fe2Te1Se1
+spacegroup:99
+lattice-abc:3.75539844,3.75539844,5.93771737
+lattice_angles:90.00000000,90.00000000,90.00000000
+contactmap:(4,4)
+0 0 1 1
+0 0 1 1
+1 1 0 0
+1 1 0 0

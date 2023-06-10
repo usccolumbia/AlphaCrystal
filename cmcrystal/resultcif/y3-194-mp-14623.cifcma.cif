@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_K5CuAs2
+_symmetry_space_group_name_H-M   P6_3/mmc
+_cell_length_a   5.78705769
+_cell_length_b   5.78705769
+_cell_length_c   18.95008047
+_cell_angle_alpha   90.1131482787816690700
+_cell_angle_beta   90.1131482787816690700
+_cell_angle_gamma   120.1131482787816690700
+_symmetry_Int_Tables_number   194
+_chemical_formula_structural   K5CuAs2
+_chemical_formula_sum   'K10 Cu2 As4'
+_cell_volume   549.61340228
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  'x-y, x, z+1/2'
+  4  '-x+y, -x, -z+1/2'
+  5  '-y, x-y, z'
+  6  'y, -x+y, -z'
+  7  '-x, -y, z+1/2'
+  8  'x, y, -z+1/2'
+  9  '-x+y, -x, z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, z+1/2'
+  12  '-y, x-y, -z+1/2'
+  13  '-y, -x, -z+1/2'
+  14  'y, x, z+1/2'
+  15  '-x, -x+y, -z'
+  16  'x, x-y, z'
+  17  '-x+y, y, -z+1/2'
+  18  'x-y, -y, z+1/2'
+  19  'y, x, -z'
+  20  '-y, -x, z'
+  21  'x, x-y, -z+1/2'
+  22  '-x, -x+y, z+1/2'
+  23  'x-y, -y, -z'
+  24  '-x+y, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.11314827878166907  0.11314827878166907  0.09499568313334483  1
+  K  K1  4  0.9586102341777226  0.0749512955517349  0.5681383352362117  1
+  K  K2  2  0.9586102341777226  0.0749512955517349  0.5215033007564128  1
+  Cu  Cu3  2  0.9586102341777226  0.0749512955517349  0.5315813739050254  1
+  As  As4  4  0.9586102341777226  0.0749512955517349  0.3795334922989304  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZnP2
+_symmetry_space_group_name_H-M   P4_12_12
+_cell_length_a   5.10150732
+_cell_length_b   5.10150732
+_cell_length_c   18.62742069
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   92
+_chemical_formula_structural   ZnP2
+_chemical_formula_sum   'Zn8 P16'
+_cell_volume   484.78564480
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/2, x+1/2, z+1/4'
+  3  '-x, -y, z+1/2'
+  4  'y+1/2, -x+1/2, z+3/4'
+  5  'x+1/2, -y+1/2, -z+3/4'
+  6  '-y, -x, -z+1/2'
+  7  '-x+1/2, y+1/2, -z+1/4'
+  8  'y, x, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  8  0.33835270037369136  0.8938605126059361  0.3102026766659425  1
+  P  P1  8  0.01062738958760438  0.37160124609477796  0.12812042999985396  1
+  P  P2  8  0.733063503090352  0.16953975972770213  0.05280310230273618  1

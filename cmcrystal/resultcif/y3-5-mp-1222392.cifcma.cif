@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiUI6
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   7.91542551
+_cell_length_b   13.01730536
+_cell_length_c   7.41638480
+_cell_angle_alpha   90.645870771386324600
+_cell_angle_beta   111.04592839
+_cell_angle_gamma   90.645870771386324600
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   LiUI6
+_chemical_formula_sum   'Li2 U2 I12'
+_cell_volume   713.19051171
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.6458707713863246  0.042267720803385145  0.26250278106823766  1
+  U  U1  2  0.6458707713863246  0.906328885684415  0.6458707713863246  1
+  I  I2  4  0.10106464737279787  0.7467939127010007  0.3572900503442179  1
+  I  I3  4  0.9956051558414364  0.9691257039643664  0.5652977646822492  1
+  I  I4  4  0.20618214008801125  0.2161473889525926  0.4587239140886956  1

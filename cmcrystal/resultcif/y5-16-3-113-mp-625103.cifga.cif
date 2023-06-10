@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbHO2
+_symmetry_space_group_name_H-M   P-42_1m
+_cell_length_a   5.42459797
+_cell_length_b   5.42459797
+_cell_length_c   5.77551372
+_cell_angle_alpha   90.49832251657977800
+_cell_angle_beta   90.49832251657977800
+_cell_angle_gamma   90.49832251657977800
+_symmetry_Int_Tables_number   113
+_chemical_formula_structural   YbHO2
+_chemical_formula_sum   'Yb4 H4 O8'
+_cell_volume   169.95178662
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, -x, -z'
+  3  '-x, -y, z'
+  4  '-y, x, -z'
+  5  'x+1/2, -y+1/2, -z'
+  6  'y+1/2, x+1/2, z'
+  7  '-x+1/2, y+1/2, -z'
+  8  '-y+1/2, -x+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  4  0.023442210164201865  0.27321978051780343  0.734754963800607  1
+  H  H1  4  0.8662163535485479  0.4282186286579745  0.21489096968716204  1
+  O  O2  4  0.022614003575682853  0.5113419599140858  0.8842300107616192  1
+  O  O3  2  0.498322516579778  0.498322516579778  0.6329483171074579  1
+  O  O4  2  0.498322516579778  0.6329483171074579  0.4288680213015092  1

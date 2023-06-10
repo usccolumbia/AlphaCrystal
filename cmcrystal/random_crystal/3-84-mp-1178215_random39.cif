@@ -1,0 +1,51 @@
+#############################################################
+#             ______       _    _          _   	            #
+#            (_____ \     \ \  / /        | |               #
+#             _____) )   _ \ \/ / |_  ____| |  	            #
+#            |  ____/ | | | )  (|  _)/ _  | | 	            #
+#            | |    | |_| |/ /\ \ |_( (_| | |___            #
+#            |_|     \__  /_/  \_\___)__|_|_____)           #
+#                   (____/                                  #
+#---------------------(version    0.2.2)--------------------#
+#       A Python package for random crystal generation      #
+#       url: https://github.com/qzhu2017/pyxtal             #
+#       @Zhu's group at University of Nevada Las Vegas      #
+#############################################################
+data_from_pyxtal
+
+_symmetry_space_group_name_H-M 'P42/m'
+_symmetry_Int_Tables_number                   84
+_symmetry_cell_setting                tetragonal
+_cell_length_a            6.650725
+_cell_length_b            6.650725
+_cell_length_c            3.096011
+_cell_angle_alpha        90.000000
+_cell_angle_beta         90.000000
+_cell_angle_gamma        90.000000
+
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+2 '-x, -y, z'
+3 '-y, x, z+1/2'
+4 'y, -x, z+1/2'
+5 '-x, -y, -z'
+6 'x, y, -z'
+7 'y, -x, -z+1/2'
+8 '-y, x, -z+1/2'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+Fe     Fe       2     0.500000    0.500000    0.250000 1
+Fe     Fe       2     0.000000    0.000000    0.000000 1
+O      O        4     0.987788    0.399166    0.000000 1
+F      F        4     0.255415    0.404088    0.000000 1
+#END
+

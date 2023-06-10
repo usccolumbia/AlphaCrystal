@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CdP2
+_symmetry_space_group_name_H-M   Pna2_1
+_cell_length_a   10.01461022
+_cell_length_b   5.48237859
+_cell_length_c   5.24770641
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   33
+_chemical_formula_structural   CdP2
+_chemical_formula_sum   'Cd4 P8'
+_cell_volume   288.11946745
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y+1/2, z+1/2'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  4  0.14439090905099025  0.8034373818464973  0.31509405138154556  1
+  P  P1  4  0.9786873172169194  0.662578013229641  0.48430551668894384  1
+  P  P2  4  0.09490309099977931  0.18994954363847474  0.38700925557451415  1

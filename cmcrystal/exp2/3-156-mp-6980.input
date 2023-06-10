@@ -1,0 +1,9 @@
+formula:Sc1Cu1S2
+spacegroup:156
+lattice-abc:3.75108815,3.75108815,6.01442899
+lattice_angles:90.00000000,90.00000000,120.00000000
+contactmap:(4,4)
+0 0 1 1
+0 0 1 1
+1 1 0 0
+1 1 0 0

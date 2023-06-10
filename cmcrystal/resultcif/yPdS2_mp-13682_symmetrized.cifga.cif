@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_PdS2
+_symmetry_space_group_name_H-M   Pbca
+_cell_length_a   5.50170600
+_cell_length_b   5.59391900
+_cell_length_c   8.60708800
+_cell_angle_alpha   90.388023459197489
+_cell_angle_beta   90.388023459197489
+_cell_angle_gamma   90.388023459197489
+_symmetry_Int_Tables_number   61
+_chemical_formula_structural   PdS2
+_chemical_formula_sum   'Pd4 S8'
+_cell_volume   264.89258142
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x, y+1/2, -z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  4  0.388023459197489  0.388023459197489  0.388023459197489  1
+  S  S1  8  0.884205811274398  0.926619525350304  0.6192134987839162  1

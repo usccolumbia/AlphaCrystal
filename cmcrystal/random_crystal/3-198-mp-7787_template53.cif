@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_HfSO
+_symmetry_space_group_name_H-M 'P213'
+_cell_length_a   5.69862036
+_cell_length_b   5.69862036
+_cell_length_c   5.69862036
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number                  198
+_chemical_formula_structural   HfSO
+_chemical_formula_sum   'Hf4 S4 O4'
+_cell_volume   185.05855903
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y+1/2, -z+1/2'
+4 'x+1/2, -y+1/2, -z'
+5 'z, x, y'
+6 'z+1/2, -x+1/2, -y'
+7 '-z+1/2, -x, y+1/2'
+8 '-z, x+1/2, -y+1/2'
+9 'y, z, x'
+10 '-y, z+1/2, -x+1/2'
+11 'y+1/2, -z+1/2, -x'
+12 '-y+1/2, -z, x+1/2'
+
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  4  0.193725  0.193725  0.193725  1
+  S  S1  4  0.412432  0.412432  0.412432  1
+  O  O2  4  0.843987  0.843987  0.843987  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K(Ti3Se4)2
+_symmetry_space_group_name_H-M 'P-3'
+_cell_length_a   9.95255367
+_cell_length_b   9.95255367
+_cell_length_c   3.58754167
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number                  147
+_chemical_formula_structural   K(Ti3Se4)2
+_chemical_formula_sum   'K1 Ti6 Se8'
+_cell_volume   307.74899429
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+2 '-y, x-y, z'
+3 '-x+y, -x, z'
+4 '-x, -y, -z'
+5 'y, -x+y, -z'
+6 'x-y, x, -z'
+
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.000000  0.000000  0.500000  1
+  Ti  Ti1  6  0.773892  0.280180  0.243942  1
+  Se  Se2  6  0.995944  0.234195  0.535114  1
+  Se  Se3  2  0.333333  0.666667  0.085636  1

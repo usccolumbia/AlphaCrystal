@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Mn3(OF2)2
+_symmetry_space_group_name_H-M 'Pmn21'
+_cell_length_a   9.69136476
+_cell_length_b   4.78806348
+_cell_length_c   4.69759938
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number                   31
+_chemical_formula_structural   Mn3(OF2)2
+_chemical_formula_sum   'Mn6 O4 F8'
+_cell_volume   217.98209183
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+2 '-x+1/2, -y, z+1/2'
+3 'x+1/2, -y, z+1/2'
+4 '-x, y, z'
+
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  2  0.000000  0.170585  0.555542  1
+  Mn  Mn1  4  0.397306  0.803927  0.567013  1
+  O  O2  4  0.251546  0.177220  0.732304  1
+  F  F3  4  0.787168  0.550907  0.735647  1
+  F  F4  2  0.000000  0.076510  0.350097  1
+  F  F5  2  0.000000  0.285668  0.234397  1

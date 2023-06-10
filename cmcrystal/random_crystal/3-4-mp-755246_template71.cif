@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ni(IO3)2
+_symmetry_space_group_name_H-M 'P21'
+_cell_length_a   5.48416635
+_cell_length_b   5.26004470
+_cell_length_c   9.37126090
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.03451743
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number                    4
+_chemical_formula_structural   Ni(IO3)2
+_chemical_formula_sum   'Ni2 I4 O12'
+_cell_volume   270.33234062
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+2 '-x, y+1/2, -z'
+
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  2  0.836027  0.650414  0.553443  1
+  I  I1  2  0.105818  0.674133  0.387301  1
+  I  I2  2  0.628906  0.023674  0.750175  1
+  O  O3  2  0.238509  0.541784  0.430960  1
+  O  O4  2  0.893047  0.592894  0.743989  1
+  O  O5  2  0.450832  0.731517  0.514017  1
+  O  O6  2  0.172696  0.242430  0.205329  1
+  O  O7  2  0.554793  0.420860  0.005614  1
+  O  O8  2  0.054328  0.271730  0.705349  1

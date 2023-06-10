@@ -1,0 +1,68 @@
+#############################################################
+#             ______       _    _          _   	            #
+#            (_____ \     \ \  / /        | |               #
+#             _____) )   _ \ \/ / |_  ____| |  	            #
+#            |  ____/ | | | )  (|  _)/ _  | | 	            #
+#            | |    | |_| |/ /\ \ |_( (_| | |___            #
+#            |_|     \__  /_/  \_\___)__|_|_____)           #
+#                   (____/                                  #
+#---------------------(version    0.2.2)--------------------#
+#       A Python package for random crystal generation      #
+#       url: https://github.com/qzhu2017/pyxtal             #
+#       @Zhu's group at University of Nevada Las Vegas      #
+#############################################################
+data_from_pyxtal
+
+_symmetry_space_group_name_H-M 'P63/mmc'
+_symmetry_Int_Tables_number                  194
+_symmetry_cell_setting                 hexagonal
+_cell_length_a            5.954664
+_cell_length_b            5.954664
+_cell_length_c           14.627472
+_cell_angle_alpha        90.000000
+_cell_angle_beta         90.000000
+_cell_angle_gamma       120.000000
+
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+2 '-y, x-y, z'
+3 '-x+y, -x, z'
+4 '-x, -y, z+1/2'
+5 'y, -x+y, z+1/2'
+6 'x-y, x, z+1/2'
+7 'y, x, -z'
+8 'x-y, -y, -z'
+9 '-x, -x+y, -z'
+10 '-y, -x, -z+1/2'
+11 '-x+y, y, -z+1/2'
+12 'x, x-y, -z+1/2'
+13 '-x, -y, -z'
+14 'y, -x+y, -z'
+15 'x-y, x, -z'
+16 'x, y, -z+1/2'
+17 '-y, x-y, -z+1/2'
+18 '-x+y, -x, -z+1/2'
+19 '-y, -x, z'
+20 '-x+y, y, z'
+21 'x, x-y, z'
+22 'y, x, z+1/2'
+23 'x-y, -y, z+1/2'
+24 '-x, -x+y, z+1/2'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+Ba     Ba       6     0.164580    0.329160    0.250000 1
+Te     Te       4     0.000000    0.000000    0.162996 1
+O      O        2     0.000000    0.000000    0.000000 1
+O      O       12     0.812547    1.625094    0.994409 1
+O      O        4     0.333333    0.666667    0.909752 1
+#END
+
