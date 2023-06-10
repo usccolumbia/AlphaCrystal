@@ -44,8 +44,7 @@ To get top 1-5 space groups and alpha/beta/gamma parameters.
 
 (3) put all the info into a csv input.csv file
 
-formula,crystal,a,b,c,alpha,beta,gamma,Top-1 SpaceGroup,Top-2 SpaceGroup,Top-3 SpaceGroup,Top-4 SpaceGroup,Top-5 SpaceGroup
-
+formula,crystal,a,b,c,alpha,beta,gamma,Top-1 SpaceGroup,Top-2 SpaceGroup,Top-3 SpaceGroup,Top-4 SpaceGroup,Top-5 SpaceGroup<br>
 Ag2F4,monoclinic,4.062,4.667,6.129,90.0,96.94,90.0,14,11,13,7,4
 
 (4) predict the contact map for the formula
