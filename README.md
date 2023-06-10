@@ -1,6 +1,9 @@
 # AlphaCrystal
 AlphaCrytal: Contact map based deep learning algorithm for crystal structure prediction
 
+Developed at:
+
+University of South Carolina, 2021
 
 Hu, J., Zhao, Y., Q. Li, Song, Y., Dong, R., Yang, W., Li, Y. and Siriwardane, E., 2021. Alphacrystal: Contact map based crystal structure prediction using deep learning. arXiv preprint arXiv:2102.01620.
 
@@ -54,7 +57,7 @@ it will generate the contact map file in test/test_output/Ag2F4-*.**.input
 ```
 cd cmcrystal
 python CMC.py --input ../test/test_output/Ag2F4-orthorhombic-62.input
-
+```
 ### Acknowledgement
 
 This software is developed based on three open source software including [MLatticeABC](https://github.com/usccolumbia/MLatticeABC), [CMCrystal](https://github.com/usccolumbia/cmcrystal), [cryspnet](https://github.com/AuroraLHT/cryspnet). We strongly appreciate their open-source contribution. We include their folders and some codes for illustrations and easy use by materials researchers.
