@@ -1,9 +1,9 @@
 # AlphaCrystal
 AlphaCrytal: Contact map based deep learning algorithm for crystal structure prediction
 
-```
-Hu, J., Zhao, Y., Song, Y., Dong, R., Yang, W., Li, Y. and Siriwardane, E., 2021. Alphacrystal: Contact map based crystal structure prediction using deep learning. arXiv preprint arXiv:2102.01620.
-```
+
+Hu, J., Zhao, Y., Q. Li, Song, Y., Dong, R., Yang, W., Li, Y. and Siriwardane, E., 2021. Alphacrystal: Contact map based crystal structure prediction using deep learning. arXiv preprint arXiv:2102.01620.
+
 
 ### Installation:
 
