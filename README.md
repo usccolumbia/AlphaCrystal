@@ -5,8 +5,7 @@ Developed at:
 
 University of South Carolina, 2021
 
-Hu, J., Zhao, Y., Q. Li, Song, Y., Dong, R., Yang, W., and Siriwardane, E., 2021. Alphacrystal: Contact map based crystal structure prediction using deep learning. arXiv preprint arXiv:2102.01620.
-
+Hu, Jianjun, Yong Zhao, Qin Li, Yuqi Song, Rongzhi Dong, Wenhui Yang, and Edirisuriya MD Siriwardane. "Deep Learning-Based Prediction of Contact Maps and Crystal Structures of Inorganic Materials." ACS omega (2023). [Link](https://pubs.acs.org/doi/full/10.1021/acsomega.3c02115)
 
 ### Installation:
 
